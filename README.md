@@ -1,4 +1,4 @@
-# employeemanager
+# MovieTRacker
 
 > Simple employee project
 
